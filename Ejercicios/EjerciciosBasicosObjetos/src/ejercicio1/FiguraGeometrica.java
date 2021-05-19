@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package app;
+package ejercicio1;
 
-import ejercicio3.CasaDeCambio;
 /**
  *
- * @author chelo
+ * @author Chelo
  */
-public class Principal {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-    }
+public class FiguraGeometrica {
     
 }
